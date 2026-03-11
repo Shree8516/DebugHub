@@ -197,3 +197,16 @@ npm run dev
 <br/>
 
 ---
+## 📊 Project Status
+
+<p align="center">
+
+<img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Deployment&up_color=00C853&up_message=live&url=https%3A%2F%2Fdebughub1.vercel.app&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Shree8516&repo=DebugHub&label=Visitors&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/Shree8516/DebugHub?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/languages/top/Shree8516/DebugHub?style=for-the-badge"/>
+
+</p>
