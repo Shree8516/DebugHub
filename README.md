@@ -210,3 +210,11 @@ npm run dev
 <img src="https://img.shields.io/github/languages/top/Shree8516/DebugHub?style=for-the-badge"/>
 
 </p>
+
+<p align="center">
+
+<a href="https://debughub1.vercel.app">
+<img src="https://img.shields.io/badge/🚀_Open_Live_App-00C853?style=for-the-badge"/>
+</a>
+
+</p>
